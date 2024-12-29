@@ -68,21 +68,21 @@ Use this section to interact with the contract.
     }
 
 //2. Configure environment to run web3.js and install library web3.js
-![alt text](step2.png)
+![alt text](</step2.png>)
 
 //3. Configure web3.js to run with Ganache and/or any Public Testnet
-![alt text](<step3.png>)
+![alt text](</step3.png>)
 
 //4. Configure Metamask with Ganache and/or any Public Testnet
-![alt text](<step4.png>)
-![alt text](<step4.1.png>)
-![alt text](<step4.2.png>)
+![alt text](</step4.png>)
+![alt text](</step4.1.png>)
+![alt text](</step4.2.png>)
 
 //5. Deploy the contract to Ganache and/or any Public Testnet
-![alt text](<step5.png>)
-![alt text](<step5.1.png>)
-![alt text](<step5.3.png>)
+![alt text](</step5.png>)
+![alt text](</step5.1.png>)
+![alt text](</step5.3.png>)
 
 //6. Call any functions of smart contract from step 4 from environment
 which you have configured from steps 1,2,3
-![alt text](<step6.png>)
+![alt text](/<step6.png>)
