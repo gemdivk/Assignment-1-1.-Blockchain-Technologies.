@@ -85,4 +85,4 @@ Use this section to interact with the contract.
 
 //6. Call any functions of smart contract from step 4 from environment
 which you have configured from steps 1,2,3
-![alt text](<Build/<step6.png>)
+![alt text](<Build/step6.png>)
