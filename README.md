@@ -17,14 +17,15 @@ This assignment implements a basic Ethereum smart contract for handling Ether tr
    ```bash
    git clone https://github.com/gemdivk/Assignment-1-1.-Blockchain-Technologies..git
    cd Assignment-1-1.-Blockchain-Technologies.
-2. Install dependencies: 
+2. Install dependencies:
+   npm init -y
    npm install web3
 
-3. Configure Ganache and Metamask
+4. Configure Ganache and Metamask
    Add Ganache to Metamask using RPC URL: 
     * http://127.0.0.1:7545
     * Import an account from Ganache using its private key.
-4. Deploy the contract using Remix IDE and connect to Ganache.
+5. Deploy the contract using Remix IDE and connect to Ganache.
 
 ## Usage
 *Interact with the contract using Web3.js scripts:*
