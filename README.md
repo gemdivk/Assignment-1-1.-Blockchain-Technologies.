@@ -78,6 +78,7 @@ Use this section to interact with the contract.
 ![alt text](<screens/step4.png>)
 ![alt text](<screens/step4.1.png>)
 ![alt text](<screens/step4.2.png>)
+![alt text](<screens/step4.3.png>)
 
 //5. Deploy the contract to Ganache and/or any Public Testnet
 ![alt text](<screens/step5.png>)
